@@ -1,1 +1,3 @@
 # PMPS
+
+Particular solutions of 
